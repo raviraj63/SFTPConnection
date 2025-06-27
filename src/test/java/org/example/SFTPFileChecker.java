@@ -14,7 +14,7 @@ public class SFTPFileChecker {
 
     // Expected file names
     private static final String[] EXPECTED_FILES = {
-            "Test11.txt","Test22.txt","Test33.txt"
+            "Test11.txt","Test22.txt","Test33.txt","Test44.txt"
     };
 
     public static void main(String[] args) {
